@@ -5,3 +5,9 @@ The Big Lebowski is a 1998 crime comedy film written, produced, and directed by 
 The film is loosely inspired by the work of Raymond Chandler. Joel Coen stated, "We wanted to do a Chandler kind of story – how it moves episodically, and deals with the characters trying to unravel a mystery, as well as having a hopelessly complex plot that's ultimately unimportant." The original score was composed by Carter Burwell, a longtime collaborator of the Coen brothers.
 
 The Big Lebowski received mixed reviews at the time of its release. Over time, reviews have become largely positive, and the film has become a cult favorite, noted for its eccentric characters, comedic dream sequences, idiosyncratic dialogue, and eclectic soundtrack. In 2014, the film was selected for preservation in the National Film Registry by the Library of Congress, being deemed "culturally, historically, or aesthetically significant
+
+## Traits
+
+* Being The Dude
+* Likes White Russians
+* Has a nice Carpet
