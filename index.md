@@ -11,3 +11,6 @@ The Big Lebowski received mixed reviews at the time of its release. Over time, r
 * Being The Dude
 * Likes White Russians
 * Has a nice Carpet
+
+Famous Quote:
+>Well, sir, it's this rug I had. It really tied the room together.
