@@ -14,3 +14,5 @@ The Big Lebowski received mixed reviews at the time of its release. Over time, r
 
 Famous Quote:
 >Well, sir, it's this rug I had. It really tied the room together.
+
+<img src="https://i.pinimg.com/originals/ec/13/8a/ec138ad7d8a180743e8c038af5eb5305.jpg"/>
